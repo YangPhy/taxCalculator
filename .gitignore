@@ -1,2 +1,4 @@
 #VScode
 *.vscode
+
+.ipynb_checkpoints
